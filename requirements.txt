@@ -1,0 +1,4 @@
+aiogram==3.21.0
+python-dotenv==1.1.1
+asyncio==4.0.0
+yt_dlp==2025.8.3.233131.dev0
